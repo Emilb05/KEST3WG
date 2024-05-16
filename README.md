@@ -9,7 +9,7 @@
 
 ---
 
-### Hér eru myndir af Tölvudeildar fölkinu að hafa admin:
+## Hér eru myndir af Tölvudeildar fölkinu að hafa admin:
 
 ![Mynd_1](https://github.com/Emilb05/KEST3WG/blob/main/Screenshot%202024-05-16%20132623.png)
 
@@ -17,7 +17,7 @@
 
 ---
 
-### Hér eru myndir af Framleiðslu deild ekki hafa aðgang að Task manager og control panel:
+## Hér eru myndir af Framleiðslu deild ekki hafa aðgang að Task manager og control panel:
 
 ![Mynd_4](https://github.com/Emilb05/KEST3WG/blob/main/Screenshot%202024-05-16%20135057.png)
 
@@ -25,7 +25,7 @@
 
 ---
 
-### Hér er mynd af Tölvudeild ekki fara á desktop þegar þeir logga inn:
+## Hér er mynd af Tölvudeild ekki fara á desktop þegar þeir logga inn:
 
 ![Mynd_6](https://github.com/Emilb05/KEST3WG/blob/main/Screenshot%202024-05-16%20140552.png)
 
